@@ -1,6 +1,6 @@
 **Voting App with Real-time Updates using Django and Websockets**
 
-![Voting App](https://example.com/voting_app_screenshot.png)
+![Voting App](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJHFAyqeZ7VGngVfppdRjEKtAsBSLqBKB4g&usqp=CAU)
 
 **Description:**
 The Voting App with Real-time Updates is a dynamic web application built using Django and Websockets that enables users to create, participate in, and monitor live polls in real-time. This interactive and engaging platform allows users to cast their votes, view poll results instantly, and experience the excitement of seeing voting trends change dynamically as more votes are cast.
